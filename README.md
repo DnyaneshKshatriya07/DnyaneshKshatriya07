@@ -1,3 +1,4 @@
+![logo](https://github.com/DnyaneshKshatriya07/DnyaneshKshatriya07/blob/main/Margarita%20Perez%20(1).png)
 <h1 align="center">Hi 👋, I'm Dnyanesh Kshatriya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
