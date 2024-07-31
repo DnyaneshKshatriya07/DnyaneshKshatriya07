@@ -5,11 +5,10 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 👨‍💻 All of my projects are available at [https://github.com/DnyaneshKshatriya07]
 
-- 💬 Ask me about **C++, JAVA, SQl, HTML, CSS, etc**
+- 💬 Ask me about **C++, JAVA, SQl, HTML, CSS, Javascript, Servlet, JSP, MYSQL etc**
 
-- 📫 How to reach me **dnyaneshkshatriya7123@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFx5hewYEU/Wz2bpJmPGogPFZ58Z-YYzA/edit?utm_content=DAFx5hewYEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFx5hewYEU/Wz2bpJmPGogPFZ58Z-YYzA/edit?utm_content=DAFx5hewYEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📫 How to reach me <a href="mailto:dnyaneshkshatriya7123@gmail.com" target="blank">Email</a>
+- 📫 How to see my portfolio <a href="mailto:dnyaneshkshatriya7123@gmail.comhttps://dnyaneshkshatriya07.github.io/Portfolio-Dnyanesh-Kshatriya/#home" target="blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
